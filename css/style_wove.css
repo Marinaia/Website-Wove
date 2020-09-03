@@ -10,5 +10,13 @@
 body{
   background-image: url("../img/star.jpg");
   color: white;
+ 
+
   
 }
+.navbar-brand{
+  font-size: large;
+  font-family: 'Grandstander', cursive;
+}
+
+
