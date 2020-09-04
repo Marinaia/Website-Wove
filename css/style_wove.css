@@ -8,7 +8,7 @@
   height: 700px;
   }
 body{
-  background-image: url("../img/star.jpg");
+  background-image: url("../img/black.jpg");
   color: white;
  
 
@@ -26,4 +26,11 @@ body{
 
 .did{
   font-size: 300%;
+}
+.articles a{
+  color:rgb(221, 164, 58);
+
+}
+.articles a:hover {
+  color: darkcyan;
 }
