@@ -20,4 +20,10 @@ body{
 ;
 }
 
+.col-sm img{
+  height: 200px;
+}
 
+.did{
+  font-size: 300%;
+}
