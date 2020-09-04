@@ -21,3 +21,10 @@ img{
     width: 350px;
     height: 250px;
 }
+.starter-template a{
+    color:white;
+  
+  }
+  .starter-template a:hover {
+    color: darkblue;
+  }
