@@ -15,8 +15,9 @@ body{
   
 }
 .navbar-brand{
-  font-size: large;
-  font-family: 'Grandstander', cursive;
+  font-size: 200%;
+  font-family: 'Caveat', cursive;
+;
 }
 
 
